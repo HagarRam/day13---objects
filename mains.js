@@ -69,10 +69,10 @@ function valueOfPerson(x){
     }
 valueOfPerson(person);
 //2
-// function lengthOfObject(x){
-//     console.log(x.length);
-// }
-// lengthOfObject(person);
+function lengthOfObject(x){
+    console.log(x.length);
+}
+lengthOfObject(person);
 //3
 let client = "John";
 const groceries = {
